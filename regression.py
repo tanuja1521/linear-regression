@@ -11,7 +11,7 @@ x = np.linspace(0,50.50)
 x += np.random.uniform(-4,4,50)
 
 y = np.random.normal(0,1,50)
-y += np.random.normal(-0.2,0.2,50)
+y += np.random.normal(-0.1,0.1,50)
 
 print(x, y)
 
